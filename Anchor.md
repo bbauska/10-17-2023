@@ -126,6 +126,9 @@ In a Search Engine Optimization process, it is very important to use different k
 <p>Click on the image</p>
 <a href="https://informaticaccmb.wordpress.com/"><img src="painting.png" style="width:250px; height:150px" alt="Teo's painting"></a>
 ```
-https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-3.jpg?raw=true
+
+<a href="https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-3.jpg">Roswell autopsy</a>
+
+<a href="https://github.com/bbauska/cubeit/blob/main/"><img src="/images/9-9-slide-img.jpg" style="width:250px; height:150px" alt="Roswell autopsy."></a>
 
 
