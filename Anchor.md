@@ -1,9 +1,9 @@
 ### A Link to an Anchor
 Links can also be used to jump to other places on the same page, on top of the page, on bottom of page or on a specified title. To create a new anchor, we need to add the id attribute a tag that will act as a reference point. We are using this id attribute to give a name to the anchor and after that we will be able to use it to make a link to this anchor:
 
+```
 <h1 id="my_anchor">Title</h1>
 
-```
 <a href="#my_anchor">Go to the anchor</a>
 ```
 
