@@ -129,6 +129,6 @@ In a Search Engine Optimization process, it is very important to use different k
 
 <a href="https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-3.jpg">Roswell autopsy</a>
 
-<a href="https://github.com/bbauska/cubeit/"><img src="images/9-9-slide-img.jpg" style="width:250px; height:150px" alt="Roswell autopsy."></a>
+<a href="https://github.com/bbauska/cubeit/blob/main/"><img src="images/9-9-slide-img.jpg" style="width:250px; height:150px" alt="Roswell autopsy."></a>
 
 
